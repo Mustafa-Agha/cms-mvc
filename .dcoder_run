@@ -1,0 +1,4 @@
+# write commands to install modules/lib and run your project, one in each line.
+# php commands are available along with other basic linux commands.
+# command to run
+php -S ./public/index.php localhost:8080
